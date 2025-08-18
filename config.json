@@ -91,8 +91,8 @@
             "detail": "https://api.1080zyku.com"
         },
         "api_2": {
-            "name": "AV-155资源",
             "api": "https://155api.com/api.php/provide/vod",
+           "name": "AV-155资源",
             "detail": "https://155api.com"
         },
         "api_3": {
